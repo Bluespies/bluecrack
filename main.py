@@ -3,7 +3,7 @@
 
 import time
 
-def display_name():
+def execution_during():
     """Affiche la durée d'execution du programme BlueCrack"""
     print("Durée : " + str(time.time() - debut) + " secondes")
     
