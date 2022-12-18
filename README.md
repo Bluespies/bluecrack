@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/aquanautes/19dfe6d5-9741-4f8a-bd92-b6f13a851592/615fb5e9-5dbb-4434-9e6c-9e5b3f6d5989/_apis/work/boardbadge/c2b6fc4d-43b0-4624-89b2-4e221f6a20b7)](https://dev.azure.com/aquanautes/19dfe6d5-9741-4f8a-bd92-b6f13a851592/_boards/board/t/615fb5e9-5dbb-4434-9e6c-9e5b3f6d5989/Microsoft.RequirementCategory)
 Bonjour vous êtes sur le projet BlueCrack
